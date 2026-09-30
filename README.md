@@ -1,6 +1,6 @@
 # ChronoSRL: Temporal Geometry for Self-Supervised Reinforcement Learning
 
-│ [Website](https://nico-bohlinger.github.io/chronosrl_website) │ [Paper]() │
+│ [Website](https://nico-bohlinger.github.io/chronosrl_website) │ [Paper](https://arxiv.org/pdf/2609.36238) │
 
 Code for ChronoSRL and the baselines CRL, AC-CRL and SRL on the seven JaxGCRL locomotion and navigation tasks and the three Unitree Go2 tasks of the paper.
 
